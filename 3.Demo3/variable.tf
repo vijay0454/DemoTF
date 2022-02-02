@@ -1,0 +1,5 @@
+variable "resourcename" {
+}
+
+variable "location" {
+}
